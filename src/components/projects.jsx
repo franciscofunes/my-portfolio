@@ -50,7 +50,7 @@ export default class Projects extends Component {
 											<span>Cuestionario Interactivo</span>
 											<p className="icon">
 												<span><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://codepen.io/FranFunes/pen/abOqbzr" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /></a></span>
-												<span><a href="https://codepen.io/FranFunes/pen/abOqbzr" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> 100</a></span>
+												<span><a href="https://codepen.io/FranFunes/full/abOqbzr" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> 100</a></span>
 
 											</p>
 										</div>
