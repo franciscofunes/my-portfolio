@@ -26,7 +26,7 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">¿A qúe me dedico?</span>
+                <span className="heading-meta">¿A qué me dedico?</span>
                 <h2 className="colorlib-heading">Algunas de mis habilidades</h2>
             </div>
             </div>
