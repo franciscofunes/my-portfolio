@@ -9,4 +9,4 @@ Hello everyone through the following tutorial i have developed my portfolio usin
 
 My intention is to continue developing and researching on this powerful framework.
 
-for a see a DEMO page enter here: https://franciscofunes.netlify.com/
+DEMO page enter here: https://franciscofunes.netlify.com/
