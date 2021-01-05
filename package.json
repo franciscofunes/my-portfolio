@@ -7,7 +7,7 @@
     "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^2.1.5",
     "react-share": "^4.0.1",
     "react-sharingbuttons": "^1.0.0",
     "travis": "^0.1.1",

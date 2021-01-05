@@ -14,8 +14,8 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hola! <br />Yo soy Francisco</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1c70YJauc4uiOnDk2sJUYrhBsjZFEvJ4v" target="_blank" rel="noopener noreferrer">Mi CV<i className="icon-download4" /></a></p>
+                          <h1>¡Bienvenidos! <br /><span role="img" aria-label="hand">👇 Ver CV </span></h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1TNPhtNajcQaw5afrFUOI0voucJoSz0jU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Mi CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>Me encanta crear y diseñar<br /> Webs !!</h1>
+                          <h1>Me encanta desarrollar y diseñar<br /> Webs !!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/franciscofunes" target="_blank" rel="noopener noreferrer">Mis proyectos <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
@@ -44,7 +44,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>Suelo publicar contenido en <br/>Linkedin ... </h1>
+                          <h1>También publico contenido en <br/>Linkedin ... </h1>
                           <p><a className="btn btn-primary btn-learn" href="https://www.linkedin.com/in/francisco-funes/" target="_blank" rel="noopener noreferrer">mirar mi perfil <i className="icon-book" /></a></p>
                         </div>
                       </div>

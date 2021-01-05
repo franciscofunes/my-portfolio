@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Acerca de</span>
                     <h2 className="colorlib-heading">¿Quién Soy?</h2>
-                    <p>Actualmente me encuentro estudiando el segundo año de la Carrera de Técnico Superior en Análisis de Sistemas en el Instituto de Formación Técnica Superior Nro. 21, ubicado en el barrio de Caballito, CABA. También me capacitó realizando cursos y certificaciones en plataformas como Freecodecamp, SoloLearn, Udemy, CodeAcademy y el programa CodoAcodo del Gobierno de la Ciudad de Buenos Aires.</p>
+                    <p>Actualmente me encuentro estudiando el tercer año de la Carrera de Técnico Superior en Análisis de Sistemas en el Instituto de Formación Técnica Superior Nro. 21, ubicado en el barrio de Caballito, CABA. También me capacitó realizando cursos y certificaciones en plataformas como Freecodecamp, SoloLearn, Udemy, CodeAcademy, Coursera y el programa CodoAcodo del Gobierno de la Ciudad de Buenos Aires.</p>
                     <p>También me dedico a la Educación Musical . Soy guitarrista , compositor, productor y asistente de grabación - Me recibí en la Universidad Maimónides de “Profesor en Arte con orientación en Lenguaje Musical” y de “Licenciado en Artes musicales” orientación Composición en el año 2015. </p>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Desarrollo y diseño Web </h3>
-                    <p>Tengo experiencia creando paginas webs utilizando HTML5, CSS3, Javascript, JSX, React.js, express.js. A su vez brindo asesoramiento al sobre nuevas tecnologías disponibles en el mercado para enriquecer al proyecto y mejorar la administración de las base de datos.</p>
+                    <p>Tengo experiencia creando paginas webs utilizando HTML5, CSS3, Javascript, MERN stack (Mongo + Express + React + Node.). <br/>A su vez brindo asesoramiento al sobre nuevas tecnologías disponibles en el mercado para sumar valor al proyecto y mejorar la administración de las base de datos.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Estructura de datos y Algoritmos</h3>
-                    <p>A lo largo del primer año de la Carrera de Técnico en Análisis de sistemas en el IFTS Nro 21, en las materias Estructura de Datos, diagramación lógica y paradigmas de la programación se abarcaron los contenidos correspondientes, se utilizo el lenguaje de programación Python para llevar acabo ejercicios y aplicación de conocimientos. </p>
+                    <p>A lo largo del segundo año de la Carrera de Técnico en Análisis de sistemas en el IFTS Nro 21, en las materias Programación Aplicada, base de datos y diseño de sistemas se abarcaron los contenidos correspondientes para diseñar y desarrollar software, se utilizo el lenguaje de programación JAVA para llevar acabo ejercicios y aplicación de conocimientos. </p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Developer Jr.</h3>
-                    <p>Mis principales intereses están abocados a comenzar a trabajar en el Área de Desarrollo de Software(Web Development, Mobile Development, API Development, etc) o en el área de Testing. Busco mi primera experiencia laboral en cualquiera de esos ámbitos, para continuar capacitandome y avanzando en mi carrera profesional en el campo de Sistemas .</p>
+                    <p>Mis principales intereses están abocados a comenzar a trabajar en el Área de Desarrollo de Software(Web Development: front-end, Mobile Development, API Development: back-end) . Busco mi primera experiencia laboral empresarial en cualquiera de esos ámbitos, para continuar capacitándome y avanzando en mi carrera profesional en el área de Sistemas .</p>
                 </div>
                 </div>
             </div>
