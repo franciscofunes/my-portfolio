@@ -184,11 +184,13 @@ export default class Projects extends Component {
 											<h3>
 												<a href='work.html'>Work 05</a>
 											</h3>
-											<span>Agenda desarollada en React</span>
+											<span>
+												Ecommerce - React, Commerce.js, Stripe, Material UI
+											</span>
 											<p className='icon'>
 												<span>
 													<a
-														href='https://www.linkedin.com/sharing/share-offsite/?url=https://codepen.io/FranFunes/full/eYNJgZZ'
+														href='https://www.linkedin.com/sharing/share-offsite/?url=https://dejaloir.netlify.app/'
 														target='_blank'
 														rel='noopener noreferrer'
 													>
@@ -197,7 +199,7 @@ export default class Projects extends Component {
 												</span>
 												<span>
 													<a
-														href='https://codepen.io/FranFunes/full/eYNJgZZ'
+														href='https://dejaloir.netlify.app/'
 														target='_blank'
 														rel='noopener noreferrer'
 													>
