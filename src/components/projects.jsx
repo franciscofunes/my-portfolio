@@ -49,7 +49,7 @@ export default class Projects extends Component {
 														target='_blank'
 														rel='noopener noreferrer'
 													>
-														<i className='icon-eye' /> 100
+														<i className='icon-eye' />
 													</a>
 												</span>
 											</p>
@@ -87,7 +87,7 @@ export default class Projects extends Component {
 														target='_blank'
 														rel='noopener noreferrer'
 													>
-														<i className='icon-eye' /> 100
+														<i className='icon-eye' />
 													</a>
 												</span>
 											</p>
@@ -101,18 +101,20 @@ export default class Projects extends Component {
 							>
 								<div
 									className='project'
-									style={{ backgroundImage: 'url(images/img-3.png)' }}
+									style={{ backgroundImage: 'url(images/img-3.jpg)' }}
 								>
 									<div className='desc'>
 										<div className='con'>
 											<h3>
 												<a href='work.html'>Work 03</a>
 											</h3>
-											<span>Cuestionario Interactivo</span>
+											<span>
+												Registro Capacitaciones - PHP, PDO, MySQL, HEROKU
+											</span>
 											<p className='icon'>
 												<span>
 													<a
-														href='https://www.linkedin.com/sharing/share-offsite/?url=https://codepen.io/FranFunes/pen/abOqbzr'
+														href='https://www.linkedin.com/sharing/share-offsite/?url=https://registro-capacitaciones.herokuapp.com/'
 														target='_blank'
 														rel='noopener noreferrer'
 													>
@@ -121,11 +123,11 @@ export default class Projects extends Component {
 												</span>
 												<span>
 													<a
-														href='https://codepen.io/FranFunes/full/abOqbzr'
+														href='https://registro-capacitaciones.herokuapp.com/'
 														target='_blank'
 														rel='noopener noreferrer'
 													>
-														<i className='icon-eye' /> 100
+														<i className='icon-eye' />
 													</a>
 												</span>
 											</p>
@@ -163,7 +165,7 @@ export default class Projects extends Component {
 														target='_blank'
 														rel='noopener noreferrer'
 													>
-														<i className='icon-eye' /> 100
+														<i className='icon-eye' />
 													</a>
 												</span>
 											</p>
@@ -203,7 +205,7 @@ export default class Projects extends Component {
 														target='_blank'
 														rel='noopener noreferrer'
 													>
-														<i className='icon-eye' /> 100
+														<i className='icon-eye' />
 													</a>
 												</span>
 											</p>
