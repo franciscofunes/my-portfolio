@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Acerca de</span>
                     <h2 className="colorlib-heading">¿Quién Soy?</h2>
-                    <p>Actualmente me encuentro estudiando el tercer año de la Carrera de Técnico Superior en Análisis de Sistemas en el Instituto de Formación Técnica Superior Nro. 21, ubicado en el barrio de Caballito, CABA. También me capacitó realizando cursos y certificaciones en plataformas como Freecodecamp, SoloLearn, Udemy, CodeAcademy, Coursera y el programa CodoAcodo del Gobierno de la Ciudad de Buenos Aires.</p>
+                    <p>Soy Front-End Developer, a su vez finalice la carrera de Técnico Superior en Análisis de Sistemas en el IFTS N° 21 en Argentina, Buenos Aires, CABA.En el 2022 me encuentro cursando la Licenciatura en gestión de tecnología en la Universidad de la Matanza. También me capacitó realizando cursos y certificaciones en plataformas como Freecodecamp, SoloLearn, Udemy, CodeAcademy, Coursera</p>
                     <p>También me dedico a la Educación Musical . Soy guitarrista , compositor, productor y asistente de grabación - Me recibí en la Universidad Maimónides de “Profesor en Arte con orientación en Lenguaje Musical” y de “Licenciado en Artes musicales” orientación Composición en el año 2015. </p>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Developer Jr.</h3>
-                    <p>Mis principales intereses están abocados a comenzar a trabajar en el Área de Desarrollo de Software(Web Development: front-end, Mobile Development, API Development: back-end) . Busco mi primera experiencia laboral empresarial en cualquiera de esos ámbitos, para continuar capacitándome y avanzando en mi carrera profesional en el área de Sistemas .</p>
+                    <p>Mis principales intereses están abocados a seguir trabajando y perfeccionandome en el Área de Desarrollo de Software (Web Development, Mobile Development, API Development: back-end)</p>
                 </div>
                 </div>
             </div>
